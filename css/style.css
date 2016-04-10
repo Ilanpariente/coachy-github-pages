@@ -18,7 +18,7 @@ p {
   line-height: 2rem;
   font-size: 20px;
   text-align: justify;
-  
+
 }
 
 .button-collapse {
@@ -73,3 +73,24 @@ footer.page-footer {
 hr { 
   margin-bottom: 4em;
 }
+
+
+/*Laptop ember video*/
+div.laptop-wrapper {
+    position: relative;
+    padding-top: 25px;
+    padding-bottom: 67.5%;
+    height: 0;
+}
+div.laptop-wrapper iframe {
+    box-sizing: border-box;
+    background: url(http://i.stack.imgur.com/zZNgk.png) center center no-repeat;
+    background-size: contain;
+    padding: 11.9% 15.5% 14.8%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
