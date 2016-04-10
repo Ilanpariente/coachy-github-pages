@@ -133,7 +133,7 @@ form > h1 {
   font-weight: 400;
   margin-bottom: 20px;
 }
-input {
+/*input {
   background: rgba(0, 0, 0, 0.2);
   color: #fff;
   text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.3);
@@ -150,8 +150,8 @@ input {
   -moz-transition: all 0.1s ease-in-out;
   transition: all 0.1s ease-in-out;
   outline: none;
-}
-input:focus {
+}*/
+/*input:focus {
   background: rgba(0, 0, 0, 0.1);
   -webkit-transition: all 0.1s ease-in-out;
   -moz-transition: all 0.1s ease-in-out;
@@ -168,7 +168,7 @@ input:focus {
 }
 :-ms-input-placeholder {
   color: rgba(225, 225, 225, 0.4);
-}
+}*/
 button {
   position: relative;
   display: block;
@@ -187,7 +187,6 @@ button {
   font-size: 1.2em;
   background: #00ffca;
   color: #f4f4f4;
-  box-shadow: 0px 3px 0px #00ffca;
   cursor: pointer;
 }
 button:active {
