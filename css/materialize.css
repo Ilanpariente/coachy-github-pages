@@ -4185,7 +4185,7 @@ nav ul li.active {
 
 nav ul a {
   transition: background-color .3s;
-  font-size: 1rem;
+  font-size: 18px;
   color: #fff;
   display: inline-block;
   padding: 0 15px;
@@ -4243,7 +4243,7 @@ nav .input-field label.active {
 
 .navbar-fixed {
   position: relative;
-  height: 56px;
+  height: 76px;
   z-index: 998;
 }
 
