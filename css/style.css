@@ -200,3 +200,8 @@ button:active {
   top: 3px;
   box-shadow: none;
 }
+
+section {
+  text-align: center;
+}
+
